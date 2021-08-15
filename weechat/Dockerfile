@@ -1,6 +1,6 @@
 # Header
 FROM alpine
-MAINTAINER Infectiious (kirkwoodjoshua@gmail.com)
+MAINTAINER Infectiious
 
 # Environment
 ENV LANG C.UTF-8
